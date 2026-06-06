@@ -1,4 +1,4 @@
-# customer-segmentation-analysis
+# customer-segmentation-and-Behavioral-Targeting-analysis
 Customer Segmentation and Behavioral Targeting Analysis using Pytho, MySQL and Power BI
 Project Overview
 
