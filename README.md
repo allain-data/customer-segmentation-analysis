@@ -8,7 +8,7 @@ Customers were segmented into groups such as Champions, Loyal Customers, Potenti
 
 The project includes data cleaning, KPI analysis, RFM analysis, customer segmentation, revenue analysis, and behavioral profiling using Python. Key insights were further analyzed using MySQL and visualized through an interactive Power BI dashboard. The findings can help businesses improve customer retention, optimize marketing campaigns, increase revenue, and make data-driven customer engagement decisions.
 
-##Tools and Technologies used
+## **Tools and Technologies used**
 Python- Python was used for data cleaning, KPI analysis, customer behavior analysis, and RFM-based customer segmentation. Using Pandas and Matplotlib, key metrics such as revenue, customer value, top customers, top products, and monthly performance were analyzed to generate business insights.
 
 MySQL- MySQL was used to store the final RFM dataset and perform analytical queries on customer segments, revenue contribution, customer distribution, and value groups.
