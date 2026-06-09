@@ -1,5 +1,5 @@
 # customer-segmentation-and-behavioral-targeting-analysis
-Customer Segmentation and Behavioral Targeting Analysis using Pytho, MySQL and Power BI
+Customer Segmentation and Behavioral Targeting Analysis using Python, MySQL and Power BI
 
 ## Goal of the Project
 The purpose of this project is to conduct a Customer Segmentation and Behavioral Targeting Analysis using the Online Retail dataset. Customer segmentation was performed through an RFM (Recency, Frequency, Monetary) model, a widely used analytical technique that groups customers based on their purchasing behavior and transaction history.
