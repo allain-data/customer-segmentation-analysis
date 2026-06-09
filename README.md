@@ -43,7 +43,7 @@ Classified customers into High Value and Low Value groups for targeting strategi
 **6. Dashboard Development**
 Developed an interactive Power BI dashboard to visualize customer segmentation, revenue insights, and business performance.
 
-##Authors
+##**Author**
 Allain
 
 
